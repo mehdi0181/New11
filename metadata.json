@@ -1,0 +1,6 @@
+{
+  "name": "دنیای سرگرمی",
+  "description": "برنامه جامع دنیای سرگرمی شامل جک، چیستان، داستان و دانستنی‌های جذاب با امکان جستجو، علاقه‌مندی و تم شب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
